@@ -1,0 +1,17 @@
+#remoteVideoGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .remote-video-container {
+    width: 300px;
+    height: 200px;
+    background-color: black;
+  }
+  
+  .remote-video {
+    width: 100%;
+    height: 100%;
+  }
+  
